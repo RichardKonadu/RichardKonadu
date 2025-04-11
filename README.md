@@ -1,4 +1,4 @@
-## Hi, Richard here 👋
+## Hi, Richard here 👋🏾
 
 ### I am a full-stack software engineer
 
